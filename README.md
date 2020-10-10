@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <p> 🌱 I’m learning Python, Network, Linux </p>
 
 ### nakayumc0278's Qiita Stats
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/mainichinemui/posts.svg)](http://qiita.com/mainichinemui)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mainichinemui/contributions.svg)](http://qiita.com/mainichinemui)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/mainichinemui/followers.svg)](http://qiita.com/mainichinemui)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/nakayumc0278/posts.svg)](http://qiita.com/mainichinemui)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/nakayumc0278/contributions.svg)](http://qiita.com/mainichinemui)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/nakayumc0278/followers.svg)](http://qiita.com/mainichinemui)
 
 ### nakayumc0278's GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=gruvbox" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nakayumc0278&show_icons=true&theme=gruvbox" />
 </a>
