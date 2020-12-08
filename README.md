@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/nakayumc0278/followers.svg)](http://qiita.com/mainichinemui)
 
 ### nakayumc0278's GitHub Stats
-<a href="https://github.com/nakayumc0278/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-status.nakayumc0278.vercel.app/api?username=nakayumc0278&show_icons=true&theme=gruvbox" />
 </a>
