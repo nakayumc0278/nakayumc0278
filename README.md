@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 ### nakayumc0278's GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nakayumc0278&show_icons=true&theme=gruvbox" />
+  <img align="left" src="https://github-status-rhv5uvdrn.vercel.app/api?username=nakayumc0278&show_icons=true&theme=gruvbox" />
 </a>
