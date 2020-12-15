@@ -25,3 +25,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-status.nakayumc0278.vercel.app/api?username=nakayumc0278&show_icons=true&theme=gruvbox" />
 </a>
+
+### nakayumc0278's Github Ststus
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=nakayumc0278&show_icons=true" />
+</div>
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=nakayumc0278&theme=onedark" />
+</div>
