@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ### nakayumc0278's Qiita Stats
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/nakayumc0278/posts.svg)](http://qiita.com/mainichinemui)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/nakayumc0278/contributions.svg)](http://qiita.com/mainichinemui)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/nakayumc0278/followers.svg)](http://qiita.com/mainichinemui)
 
 ### nakayumc0278's GitHub Stats
