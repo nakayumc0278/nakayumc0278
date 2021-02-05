@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### nakayumc0278's GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=nakayumc0278&show_icons=true" />
+   <img align="left" src="https://github-status.nakayumc0278.vercel.app/api?username=nakayumc0278&show_icons=true&theme=gruvbox" />
 </div>
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=nakayumc0278&theme=onedark" />
