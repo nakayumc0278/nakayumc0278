@@ -35,8 +35,14 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </a> <br>
-<a href="https://wikipwdia.com/" target="_blank">
+<a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="40" height="40"/>
+</a>
+<a href="https://ja.wikipedia.org/wiki/Linux" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+<a href="https://archlinux.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arch-linux-logo.svg" alt="archlinux" width="40" height="40"/>
 </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
