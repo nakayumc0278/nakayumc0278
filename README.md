@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 <p> 🔭 I’m currently learning on school</p>
 <p> 🌱 I’m learning Python, Network, Linux </p>
 
+
+### Twitter Badge
+[![Twitter Badge](https://img.shields.io/badge/-@nakayumc0278-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nakayumc0278)](https://twitter.com/nakayumc0278)
+
 ### Languages and Tools, Library:
 <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -56,9 +60,6 @@ Here are some ideas to get you started:
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
-
-### Twitter Badge
-[![Twitter Badge](https://img.shields.io/badge/-@nakayumc0278-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nakayumc0278)](https://twitter.com/nakayumc0278)
 
 ### Qiita Stats
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/nakayumc0278/posts.svg)](http://qiita.com/mainichinemui)
