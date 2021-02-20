@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p> 🔭 I’m currently learning on school</p>
-<p> 🌱 I’m learning Python, Network, Linux </p>
+<p> 🔭 I’m currently learning on school.</p>
+<p> 🌱 I’m learning Python, Network, Linux and Security.</p>
 
 
 ### Twitter Badge
