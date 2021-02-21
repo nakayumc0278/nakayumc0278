@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 </a>
 
 ### Qiita Stats
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/nakayumc0278/posts.svg)](http://qiita.com/mainichinemui)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/nakayumc0278/followers.svg)](http://qiita.com/mainichinemui)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/nakayumc0278/posts.svg)](http://qiita.com/nakayumc0278)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/nakayumc0278/followers.svg)](http://qiita.com/nakayumc0278)
 
 ### GitHub Stats
 <div>
