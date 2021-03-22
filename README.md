@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="40" height="40"/>
 </a>
-<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
+<a href="https://www.kernel.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
 <a href="https://archlinux.org/" target="_blank">
