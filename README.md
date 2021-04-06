@@ -66,9 +66,6 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
 
-### Qiita Stats
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/nakayumc0278/posts.svg)](http://qiita.com/nakayumc0278)
-
 ### GitHub Stats
 <div>
    <img align="left" src="https://github-status.nakayumc0278.vercel.app/api?username=nakayumc0278&show_icons=true&theme=gruvbox" />
