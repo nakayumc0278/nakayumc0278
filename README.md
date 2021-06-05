@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@nakayumc0278-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nakayumc0278)](https://twitter.com/nakayumc0278)
 
 ### Certified:
-<a href="https://www.comptia.org/" target="_blank">
+<a href="https://linuc.org/" target="_blank">
     <img src="https://nakayumc.com/img/LinuC_lv1_02.svg" alt="linuc" width="40" height="40"/>
 </a>
-<a href="https://linuc.org/" target="_blank">
+<a href="https://www.comptia.org/" target="_blank">
     <img src="https://nakayumc.com/img/comptia-security-ce-certification.png" alt="linuc" width="40" height="40"/>
 </a>
 
