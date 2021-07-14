@@ -41,12 +41,17 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </a>
+<a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="css3" width="40" height="40"/>
+</a>
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </a> <br>
 <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="40" height="40"/>
 </a>
+<a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/amazonwebservices/amazonwebservices-original.svg" alt="linux" width="40" height="40"/>  
 <a href="https://www.kernel.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
