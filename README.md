@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img src="https://nakayumc.com/img/LinuC_lv1_02.svg" alt="linuc" width="40" height="40"/>
 </a>
 <a href="https://www.comptia.org/" target="_blank">
-    <img src="https://nakayumc.com/img/comptia-security-ce-certification.png" alt="linuc" width="40" height="40"/>
+    <img src="https://nakayumc.com/img/comptia-security-ce-certification.png" alt="comptia" width="40" height="40"/>
 </a>
 
 ### Languages and Tools, Library:
@@ -76,5 +76,5 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 <div>
-   <img align="left" src="https://github-status.nakayumc0278.vercel.app/api?username=nakayumc0278&show_icons=true&theme=gruvbox" />
+   <img align="left" src="https://github-readme-stats-5ka8nhkck-nakayumc0278.vercel.app/api?username=nakayumc0278&show_icons=true&theme=gruvbox" />
 </div>
