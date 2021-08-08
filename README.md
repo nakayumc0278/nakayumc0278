@@ -55,9 +55,6 @@ Here are some ideas to get you started:
 <a href="https://www.kernel.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
-<a href="https://archlinux.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arch-linux-logo.svg" alt="archlinux" width="40" height="40"/>
-</a>
 <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </a>
