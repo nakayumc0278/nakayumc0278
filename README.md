@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </a> <br>
+<a href="https://www.ansible.com/">
+    <img src="https://user-images.githubusercontent.com/38637223/44164304-83a6c880-a07a-11e8-9e88-a68225815756.png" width="40" height="40"/>
 <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://nakayumc.com/img/microsoft-azure-seeklogo.com.svg" width="40" height="40"/>
 </a>
