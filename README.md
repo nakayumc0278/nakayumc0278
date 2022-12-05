@@ -72,8 +72,3 @@ Here are some ideas to get you started:
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
-
-### GitHub Stats
-<div>
-   <img align="left" src="https://github-readme-stats-5ka8nhkck-nakayumc0278.vercel.app/api?username=nakayumc0278&show_icons=true&theme=gruvbox" />
-</div>
