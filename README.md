@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### Twitter Badge
 [![Twitter Badge](https://img.shields.io/badge/-@nakayumc0278-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nakayumc0278)](https://twitter.com/nakayumc0278)
 
+<!--
 ### Certified:
 <a href="https://linuc.org/" target="_blank">
     <img src="https://nakayumc.com/img/LinuC_lv1_02.svg" alt="linuc" width="40" height="40"/>
@@ -72,3 +73,4 @@ Here are some ideas to get you started:
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
+-->
