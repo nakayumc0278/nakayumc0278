@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <p> 🌱 I’m learning Python, Network, Linux, Security and Ansible.</p>
 
 
-### Twitter Badge
+<!-- ### Twitter Badge
 [![Twitter Badge](https://img.shields.io/badge/-@nakayumc0278-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nakayumc0278)](https://twitter.com/nakayumc0278)
+-->
 
 <!--
 ### Certified:
